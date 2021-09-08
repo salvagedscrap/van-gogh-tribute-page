@@ -1,0 +1,45 @@
+*{
+background: #AB6A0C;
+font-family: arial;
+
+
+} 
+img{
+display:block;
+max-width: 50% ;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+p{
+font-size: 1,2rem;
+text-align: center;
+}
+h1{
+font-size: 3rem
+text-align: center;
+}
+h3{ text-align: center;
+}
+header{
+text-align: center;
+}
+h3{
+font-size: 1,8rem;
+    text-align: center;
+}
+
+ul{
+display: grid;
+margin: 0 60px 0 60px ;
+text align: left;
+}
+
+
+
+footer{display:grid
+width: 50%;
+        text-align: center;
+}
